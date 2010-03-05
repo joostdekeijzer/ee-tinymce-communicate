@@ -1,12 +1,12 @@
 # TinyMCE Communicate
 
-An ExpressionEngine extension that adds TinyMCE WYSIWYG editing to the Communicate tab. (Requires [LG TinyMce](http://leevigraham.com/cms-customisation/expressionengine/lg-tinymce/))
+An ExpressionEngine extension that adds TinyMCE WYSIWYG editing to the Communicate tab. (Requires Moxiecode's [Tiny MCE](http://tinymce.moxiecode.com/))
 
 ## Requirements
 
-TinyMCE Communicate is an [ExpressionEngine](http://expressionengine.com/) extension that shares the settings of [LG TinyMce](http://leevigraham.com/cms-customisation/expressionengine/lg-tinymce/). So far only tested on ExpressionEngine v1.6.7.
+TinyMCE Communicate is an [ExpressionEngine](http://expressionengine.com/) extension that can share the settings of [LG TinyMce](http://leevigraham.com/cms-customisation/expressionengine/lg-tinymce/). So far only tested on ExpressionEngine v1.6.7.
 
-Requires [LG TinyMce](http://leevigraham.com/cms-customisation/expressionengine/lg-tinymce/) and Moxiecode's [Tiny MCE](http://tinymce.moxiecode.com/).
+Requires Moxiecode's [Tiny MCE](http://tinymce.moxiecode.com/) and [LG TinyMce](http://leevigraham.com/cms-customisation/expressionengine/lg-tinymce/) if "setting sharing" is used (default).
 
 ## Installation and activation
 
