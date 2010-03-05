@@ -10,8 +10,11 @@ Requires [LG TinyMce](http://leevigraham.com/cms-customisation/expressionengine/
 
 ## Installation and activation
 
-1. Upload `ext.tinymce_communicate.php` to your `system/extensions` folder.
-2. Log into your site's administration, open the **Extensions Manager** and **Enable** the extension.
+1. Upload `extensions/ext.tinymce_communicate.php` to your `system/extensions` folder.
+2. Upload `language/english/lang.tinymce_communicate.php` to your `system/language/english` folder.
+3. Log into your site's administration, open the **Extensions Manager** and **Enable** the extension.
+
+By default it will search for the LG TinyMce settings, but you can override these by selecting the **Settings**.
 
 ## Usage
 
